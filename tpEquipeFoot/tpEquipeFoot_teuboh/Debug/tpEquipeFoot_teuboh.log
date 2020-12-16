@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\dev\c\TP\tpEquipeFoot_teuboh\tpEquipeFoot_teuboh\tpEquipeFoot_teuboh\Source.cpp(282,7): warning C4101: 'nom': unreferenced local variable
+D:\dev\c\TP\tpEquipeFoot_teuboh\tpEquipeFoot_teuboh\tpEquipeFoot_teuboh\Source.cpp(326,6): warning C4101: 'position': unreferenced local variable
+D:\dev\c\TP\tpEquipeFoot_teuboh\tpEquipeFoot_teuboh\tpEquipeFoot_teuboh\Source.cpp(400,6): warning C4101: 'nbButAajouter': unreferenced local variable
+  tpEquipeFoot_teuboh.vcxproj -> D:\dev\c\TP\tpEquipeFoot_teuboh\tpEquipeFoot_teuboh\Debug\tpEquipeFoot_teuboh.exe
